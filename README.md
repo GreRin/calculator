@@ -1,5 +1,4 @@
-# calculator
-calculator
+# Calculator
 
-Start: npm run start
-Build: npm run build
+## Start: npm run start
+## Build: npm run build
